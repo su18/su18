@@ -35,9 +35,9 @@
 - &#x1f47e; **爱好**: &#x1f3b9; 梦想是成为一名琴匠，如果这辈子还有机会的话 / &#x1f4d5; 读书爱好者 /  &#x1f3ca; 为了我尚不存在的腹肌
 - &#x1f4ac; **座右铭**: 男人要禁得住诱惑
 - &#x1f0cf; **Steam**: stickerblue9527
-- &#x1f4f1; **微信**: K_MnO4
 - &#x1f4e7; **电邮**: su18@javaweb.org
-
+- &#x1f4f1; **微信**: 扫下图
+- <img src="./images/00014-848297159.png" width="512" height="512" />
 
 
 
@@ -56,5 +56,4 @@
 ## &#x1f92b; 记得留言别跑堂喔
 
 [![Top Langs](https://profile-counter.glitch.me/su18/count.svg)](https://su18.org)
-
 
