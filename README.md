@@ -14,7 +14,7 @@
 
 一些项目：
 - Github 里的小项目，随意看看。
-- 分享 Java 安全的项目: JavaSec - https://www.javasec.org | https://zhishihezi.net/b/5d644b6f81cbc9e40460fe7eea3c7925
+- 分享 Java 安全的项目: JavaSec - https://www.javasec.org
 
 
 
